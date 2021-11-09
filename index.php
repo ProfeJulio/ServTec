@@ -4,9 +4,9 @@
 	<!-- HEAD DE LA PAGINA -->
 	<?php include("interna/plantillas/headHTML.php"); ?>
 	<!-- UTILIZADO POR SLIDERSHOW -->
-	<script src="/PagServTecProfesor/interna/js/jquery-1.9.1.min.js"></script>
-	<script src="/PagServTecProfesor/interna/js/jquery.slides.js"></script>
-	<script src="/PagServTecProfesor/interna/js/imagenMenuSlides.js"></script>
+	<script src="/ServTec/interna/js/jquery-1.9.1.min.js"></script>
+	<script src="/ServTec/interna/js/jquery.slides.js"></script>
+	<script src="/ServTec/interna/js/imagenMenuSlides.js"></script>
 </head>
 <body>
 	<!-- CABECERA DE PAGINA ---------------------->
