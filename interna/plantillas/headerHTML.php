@@ -3,10 +3,10 @@
     <div class="banner">
       <table>
         <tr>
-          <td width="198"><a href="/PagServTecProfesor/"><img src="/PagServTecProfesor/imagen/bit2.png" alt="BIT Soluciones Informáticas"></a></td>
+          <td width="198"><a href="/ServTec/"><img src="/ServTec/imagen/bit2.png" alt="BIT Soluciones Informáticas"></a></td>
           <td width="914" align="right">
             <!-- LOGIN DE ACCESO A USUARIO -->
-            <form id="form1" name="form1" method="post" action="/PagServTecProfesor/interna/procesar_usuario.php">
+            <form id="form1" name="form1" method="post" action="/ServTec/interna/procesar_usuario.php">
               <table width="217">
                 <tr>
                   <td width="88" class="login" align="right"><label>Usuario:</label></td>
@@ -14,8 +14,8 @@
                     <input name="usuario" size="5" type="text" id="usuario" maxlength="15" />
                   </td>
                   <td width="52" rowspan="2">
-                    <a href="#" onClick="ingresar();" onMouseOver="image1.src='/PagServTecProfesor/imagen/ingresar2.png';" onMouseOut="image1.src='/PagServTecProfesor/imagen/ingresar1.png';">
-                    <img name="image1" src="/PagServTecProfesor/imagen/ingresar1.png" border="0"></a>
+                    <a href="#" onClick="ingresar();" onMouseOver="image1.src='/ServTec/imagen/ingresar2.png';" onMouseOut="image1.src='/ServTec/imagen/ingresar1.png';">
+                    <img name="image1" src="/ServTec/imagen/ingresar1.png" border="0"></a>
                   </td>
                 </tr>
                 <tr>

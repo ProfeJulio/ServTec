@@ -8,18 +8,18 @@
       </div>
       <div class="columna2">
         <h1 class="titulo-columna">Menú</h1>
-        <div class="row"><img src="/PagServTecProfesor/imagen/inicio.png"><a href="/PagServTecProfesor/">Inicio</a></div>
-        <div class="row"><img src="/PagServTecProfesor/imagen/servicios.png"><a href="/PagServTecProfesor/interna/servicios.php">Servicios</a></div>
-        <div class="row"><img src="/PagServTecProfesor/imagen/proyectos.png"><a href="/PagServTecProfesor/interna/proyectos.php">Proyectos</a></div>
-        <div class="row"><img src="/PagServTecProfesor/imagen/nosotros.png"><a href="/PagServTecProfesor/interna/nosotros.php">Nosotros</a></div>
-        <div class="row"><img src="/PagServTecProfesor/imagen/contacto.png"><a href="/PagServTecProfesor/interna/contacto.php">Contacto</a></div>
+        <div class="row"><img src="/ServTec/imagen/inicio.png"><a href="/ServTec/">Inicio</a></div>
+        <div class="row"><img src="/ServTec/imagen/servicios.png"><a href="/ServTec/interna/servicios.php">Servicios</a></div>
+        <div class="row"><img src="/ServTec/imagen/proyectos.png"><a href="/ServTec/interna/proyectos.php">Proyectos</a></div>
+        <div class="row"><img src="/ServTec/imagen/nosotros.png"><a href="/ServTec/interna/nosotros.php">Nosotros</a></div>
+        <div class="row"><img src="/ServTec/imagen/contacto.png"><a href="/ServTec/interna/contacto.php">Contacto</a></div>
       </div>
       <div class="columna3">
         <h1 class="titulo-columna">Información de Contacto</h1>
-        <div class="row2"><img src="/PagServTecProfesor/imagen/celular.png"><p>+56 9 6676 5105</p></div>
-        <div class="row2"><img src="/PagServTecProfesor/imagen/correo.png"><p>bit.software@bitinformatica.cl</p></div>
-        <div class="row2"><img src="/PagServTecProfesor/imagen/sitio.png"><p>http://www.bitinformatica.cl</p></div>
-        <div class="row2"><img src="/PagServTecProfesor/imagen/ubicacion.png"><p>La Proveeora #3808, Población 11 de Septiembre, Arica-Chile</p></div>
+        <div class="row2"><img src="/ServTec/imagen/celular.png"><p>+56 9 6676 5105</p></div>
+        <div class="row2"><img src="/ServTec/imagen/correo.png"><p>bit.software@bitinformatica.cl</p></div>
+        <div class="row2"><img src="/ServTec/imagen/sitio.png"><p>http://www.bitinformatica.cl</p></div>
+        <div class="row2"><img src="/ServTec/imagen/ubicacion.png"><p>La Proveeora #3808, Población 11 de Septiembre, Arica-Chile</p></div>
       </div>
     </div>
   </div>
