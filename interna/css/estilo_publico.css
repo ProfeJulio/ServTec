@@ -1,0 +1,104 @@
+div#user{
+	border: 0px solid #FF6633;
+	position: absolute;
+	top: 77px;
+	left: 296px;
+	width: 568px;
+}
+
+div#adm{
+	border: 0px solid #FF6633;
+	position: absolute;
+	top: 107px;
+	left: 46px;
+	width: 605px;
+}
+
+div#cerrar{
+	border: 0px solid #043E83;
+	position: absolute;
+	height:25px;
+	width:33px;
+	left: 778px;
+	top: 50px;
+
+}
+
+div#nombreUsuario{
+    border: 0px solid #043E83;
+    position: absolute;
+    height:25px;
+    width:338px;
+    top: 105px;
+    left: 476px;
+    color: #000000;
+    font-size: 18px;
+    font-family: cambria,sans-serif,;
+    font-align: center;
+	text-align: left;
+}
+
+div#fechayhora{
+    border: 0px solid #043E83;
+    position: absolute;
+    height:34px;
+    width:199px;
+    top: 152px;
+    left: 614px;
+    color: #000000;
+    font-size: 18px;
+    font-family: cambria,sans-serif,;
+    font-align: right;
+	text-align: right;
+}
+
+div#bienvenido{
+	border: 0px solid #FF6633;
+	padding: 0px 0px 0px 0px;
+	position: relative;
+	top: 0px;
+	left: 100px;
+	background-color: #FFFFFF;
+	width: 900px;
+}
+
+div#global{
+	border: 0px solid #FF6633;
+	padding: 10px 0px 0px 0px;
+    position: relative;
+	top:0px;
+	left:-10px;
+    width:890px;
+    margin:0 auto;
+}
+
+div#ingreso{
+	border: 0px solid #FF6633;
+	position: relative;
+	top: -360px;
+	left: 80px;
+	width: 0px;
+	height: 0px;
+}
+
+div#inferior{
+/*	border: 2px solid #CCFF00;	*/
+	border: 0px solid #FF6633;
+    padding: 10px 0px 0px 0px;
+    position: relative;
+	top: 30px;
+	left:-205px;
+    height: 130px;
+    width: 1000px;
+	overflow: auto;
+    margin:0 auto;
+}
+
+div#superior{
+    border: 0px solid #FF6633;
+    position: absolute;
+    bottom: -82px;
+    left: 0px;
+    height: 350px;
+    width: 900px;
+}

@@ -1,0 +1,132 @@
+div#movil_inicio{
+	position: relative;
+    top: 0px;
+    left: 0px;
+	height:0px;
+}
+
+div#movil_termino{
+	position: relative;
+    top: 0px;
+    left: 0px; 
+}
+
+div#sin_ticket{
+	position: absolute;
+	top: 270px;
+	left: 735px;
+	width: 205px;
+}
+
+div#gestionar_clientes{
+    position: absolute;
+    top: 50px;
+    left: -180px; 
+    height: 250px;
+    width: 908px;
+}
+
+div#i_agregarcliente{
+    border: 0px solid #FF6633;
+    padding: 0px 0px 0px 0px;
+    position: relative;
+    top: 0px;
+    left: 0px; 
+    height: 50px;
+    width: 60px;
+}
+
+div#t_agregarcliente{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	position: relative;
+    top: 4px;
+    left: 0px; 
+    height: 10px;
+    width: 130px;
+}
+
+div#buscar{
+	position: relative;
+    top: 0px;
+    left: 0px;
+	height:60px;
+}
+
+div#tabla_clientes{
+	position: relative;
+    top: 0px;
+    left: 0px; 
+}
+
+div#tabla_usuarios{
+	position: relative;
+    top: 0px;
+    left: 0px; 
+}
+
+div#editar_variables{
+	position: relative;
+	height: 120px;
+    top: 0px;
+    left: 120px; 
+    width: 0px;
+}
+
+div#comprobante{
+	position: relative;
+    top: 0px;
+    left: 0px; 
+}
+
+
+
+
+div#cambio_medidor{
+	position: absolute;
+    top: 80px;
+    left: 620px; 
+    width: -100px;
+}
+
+div#t_cargo_fijo{
+	position: relative;
+    top: 0px;
+    left: 0px; 
+    width: 80px;
+}
+
+
+
+div#mostrar{
+	position:absolute;
+	left: 390px;
+	top: 207px;
+}
+
+div#titulo{
+	position: relative;
+    top: 50px;
+    left: -180px; 
+    width: 900px;
+}
+
+div#agregar_socios{
+    position: relative;
+    top: 60px;
+    left: -80px; 
+    height: 250px;
+    width: 700px;
+}
+
+#Estilo1{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+}
+#EstiloTabla{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 5px;
+	font-weight: bold;
+}
