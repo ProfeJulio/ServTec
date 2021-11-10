@@ -30,11 +30,11 @@
     </div>
     <nav class="menu">
       <ul>
-        <li><a href="/PagServTecProfesor/">Inicio</a></li>
-        <li><a href="/PagServTecProfesor/interna/servicios.php">Servicios</a></li>
-        <li><a href="/PagServTecProfesor/interna/proyectos.php">Proyectos</a></li>
-        <li><a href="/PagServTecProfesor/interna/nosotros.php">Nosotros</a></li>
-        <li><a href="/PagServTecProfesor/interna/contacto.php">Contacto</a></li>
+        <li><a href="/ServTec/">Inicio</a></li>
+        <li><a href="/ServTec/interna/servicios.php">Servicios</a></li>
+        <li><a href="/ServTec/interna/proyectos.php">Proyectos</a></li>
+        <li><a href="/ServTec/interna/nosotros.php">Nosotros</a></li>
+        <li><a href="/ServTec/interna/contacto.php">Contacto</a></li>
       </ul>
     </nav>
   </div>
