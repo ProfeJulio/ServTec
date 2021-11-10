@@ -1,6 +1,6 @@
 <footer>
   <div class="footer-contenedor">
-    <div class="contenedor-body">
+    <div class="contenedor">
       <div class="columna1">
         <h1 class="titulo-columna">Información de la Empresa</h1>
         <p>Misión: Dedicamos nuestros esfuerzos a aumentar la competitividad de pymes y profesionales proporcionando soluciones tecnológicas e impulsando las últimas novedades y servicios en todo lo referente a sistemas informáticos, soluciones de software y comunicaciones, ofreciendo una solución global a empresas, profesionales, administraciones y usuarios particulares, en la ciudad de Arica.<br>

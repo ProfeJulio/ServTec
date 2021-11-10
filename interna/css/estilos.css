@@ -36,7 +36,7 @@ header nav {	background:#0066FF;		margin-bottom:10px;	-webkit-transition: all ea
 footer {	background:#0066FF;	color:#FFFFFF;	width:95%;	max-width:1000px;	margin:auto;}
 footer a{ margin-top:10px;	margin-left:20px;	color:#FFFFFF; display:block; text-decoration:none;}
 	.footer-contenedor {	width:100%;	max-width:1000px;	margin:auto;	padding:40px;	}
-	.contenedor-body {	display:flex;	justify-content:space-between;}
+	.contenedor {	display:flex;	justify-content:space-between;}
 		.titulo-columna{font-size:22px;}
 		.columna1{	max-width:400px;}
 		.columna1 p {	font-size:16px;	margin-top:20px; }
