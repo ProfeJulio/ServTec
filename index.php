@@ -16,24 +16,25 @@
 		<!--IMAGENES DE SLIDERSHOW ------------------------>
 		<div class="main">
 			<div class="slides">
-				<a href="interna/contacto.php"><img src="imagen/banner/4.jpg" alt="Invierta en seguridad "></a>
-				<a href="interna/proyectos.php"><img src="imagen/banner/5.jpg" alt="Soluciones Informaticas"></a>
-				<a href="interna/contacto.php"><img src="imagen/banner/6.jpg" alt="Soporte y mantención"></a>
+				<a href="interna/contacto.php"><img src="imagen/banner7.jpg" alt="Invierta en seguridad "></a>
+				<a href="interna/proyectos.php"><img src="imagen/banner8.jpg" alt="Soluciones Informaticas"></a>
+				<a href="interna/contacto.php"><img src="imagen/banner9.jpg" alt="Soporte y mantención"></a>
 			</div>
 		</div>
 		<div class="intro">
-			<h2>ENTREGAMOS Soluciones integrales en el Ambito</h2>
-			<p>Bit Soluciones Informáticas es un grupo de trabajo que entrega soluciones integrales en el rubro de las tecnologías de la información y comunicación, dedicada al desarrollo de sistemas informáticos, diseño web, soporte informático, redes y asesorías en general para pequeñas y medianas empresas. Contamos con un equipo joven y multidisciplinario, dispuesto a llegar donde las necesidades de nuestros clientes lo requieran, bajo una política de excelencia y calidad.</p>
+			<h2>ENTREGAMOS Soluciones  integrales en el Ambito</h2>
+			<p>Saludos, somos alumnos, alumnas y docentes de la especialidad de Programación del colegio Leonardo Da Vinci, ubicado en la ciudad de Arica. La especialidad Técnico profesional comprende dos niveles: Tercero y Cuarto medios.</p>
 		</div>
 		<div class="obj-filo">
 			<div class="colum1">
-				<h3>Nuestro Objetivo</h3>
-				<div class="col1"><img src="imagen/objetivo.png"><p>Es proporcionar soluciones a las empresas mediante la Tecnología de la Información (TI) para la mejora de sus procesos de negocio, aportando eficiencia y productividad.</p>
+				<h3> Objetivo</h3>
+				<div class="col1"><img src="imagen/LogoEspecialidad.png"><p>Desarrollar el proyecto educativo de "Servicio Técnico de Mantención de equipos computacionales" y prestar el servicio a la comunidad educativa del colegio.</p>
 				</div>
 			</div>
 			<div class="colum2">
-				<h3>Nuestra Filosofía</h3>
-				<div class="col2"><img src="imagen/filosofia.png"><p>Es generar un marco de confianza con el cliente y convertirnos en su socio tecnolígico para ayudar a consolidar el crecimiento de su negocio y conseguir el éxito para su empresa.</p>
+				<h3> Reseña De Colegio </h3>
+				<div class="col2"><img src="imagen/LogoColegio.png"><p>El Colegio Leonardo Da Vinci de Arica, tiene como misión ofrecer Educación de Calidad Integral a sus estudiantes para trascender humana, y culturalmente; inculcando, valores humanistas y cristianos y formar personas pro-activas y emprendedoras que diseñen su propio proyecto de vida, que respondan a sus propios intereses y a los de la sociedad.
+</p>
 				</div>
 			</div>
 		</div>
