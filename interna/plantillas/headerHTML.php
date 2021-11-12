@@ -31,7 +31,7 @@
     <nav class="menu">
       <ul>
         <li><a href="/ServTec/">Inicio</a></li>
-        <li><a href="/ServTec/interna/servicios.php">Servicios Prestados</a></li>
+        <li><a href="/ServTec/interna/serviciosprestados.php">Servicios Prestados</a></li>
         <li><a href="/ServTec/interna/proyectos.php">Solicitud de Servicios</a></li>
       </ul>
     </nav>
