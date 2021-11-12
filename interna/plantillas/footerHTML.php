@@ -5,7 +5,7 @@
       <div class="columna2">
         <h1 class="titulo-columna">Mapa de Página </h1>
         <div class="row"><img src="/ServTec/imagen/inicio.png"><a href="/ServTec/">Inicio</a></div>
-        <div class="row"><img src="/ServTec/imagen/servicios.png"><a href="/ServTec/interna/servicios.php">Servicios Prestados</a></div>
+        <div class="row"><img src="/ServTec/imagen/servicios.png"><a href="/ServTec/interna/serviciosprestados.php">Servicios Prestados</a></div>
         <div class="row"><a class="row-indent" href="/ServTec/">Mantenimiento Lógico (Sw)</a></div>
         <div class="row"><a class="row-indent" href="/ServTec/">Mantenimiento Físico (Hw)</a></div>
         <div class="row"><a class="row-indent" href="/ServTec/">Formateo e instalación SO</a></div>
