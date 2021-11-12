@@ -12,44 +12,63 @@ h2{font-size: 2em;}
 h3{font-size: 1.5em;}
 
 body{
-	background-color: #DCE6F2;
+	background-color: #FFFFFF;
+}
+.banner-img{
+	width: 700px;
+}
+
+.banner{
+		background-color: #005020;
 }
 .login {
 	font-family:Calibri;
 	font-size:14px;
 	font-weight: bold;
 }
+.login{
+	color: #FFFFFF;
+}
 .contenedor {
 	width:95%;
 	max-width:1000px;
 	margin:auto;
 }
-header nav {	background:#0066FF;		margin-bottom:10px;	-webkit-transition: all ease 1s;	-o-transition: all ease 1s;	transition: all ease 1s;}
+header nav {	background:#FFFFFF;		margin-bottom:10px;	-webkit-transition: all ease 1s;	-o-transition: all ease 1s;	transition: all ease 1s;}
 	header nav ul { list-style:none;	overflow:hidden;	}
 		header nav ul li{	float:left;	}
-			header nav ul li a {display:block;	padding:20px;	color:#FFFFFF;	text-decoration:none;	font-size:18px;	}
-			header nav ul li a:hover{	background:#0000FF;		}
+			header nav ul li a {display:block;	padding:20px;	color:#005020;	text-decoration:none;	font-size:18px;	}
+		  header nav ul li a:hover{	color:#FF6700;		}
 
 .menu-fixed {	position:fixed;	z-index:1000;	top:0;	width:100%;	max-width:1000px;	box-shadow:10px 10px 10px rgba(0,0,0,.5);}
 .menu-fixed ul li a {	padding:10px 20px;}
 
-footer {	background:#0066FF;	color:#FFFFFF;	width:95%;	max-width:1000px;	margin:auto;}
+footer {	background:#005020;	color:#FFFFFF;	width:95%;	max-width:1000px;	margin:auto;}
 footer a{ margin-top:10px;	margin-left:20px;	color:#FFFFFF; display:block; text-decoration:none;}
 	.footer-contenedor {	width:100%;	max-width:1000px;	margin:auto;	padding:40px;	}
 	.contenedor-body {	display:flex;	justify-content:space-between;}
+	.titulo-columna{
+			color:#edff21
+		}
+	footer a:hover {
+		color: #FF6700;
+	}
+	.row2:hover{
+		color:#FF6700;
+	}
+	
 		.titulo-columna{font-size:22px;}
-		.columna1{	max-width:400px;}
-		.columna1 p {	font-size:16px;	margin-top:20px; }
-
 		.columna2{	max-width:300px;}
 		.row {	margin-top:20px;	display:flex;	}
 		.row img {	width:36px;	height:36px;	}
-
+    .row-indent{
+			text-indent: 3.5em;
+		}
 		.columna3{	max-width:300px;}
 		.row2 {	margin-top:20px;	display:flex;	}
 		.row2 img {	width:36px;	height:36px;	}
 		.row2 p {	margin-top:10px;	margin-left:20px;	max-width:190px;	}
-	.footer-derechosAutor {	width:100%;	max-width:1000px;	background:#0000FF;	justify-content:space-between;	padding:10px;	margin:auto;	text-align:center;	}
+	.footer-derechosAutor {	width:100%;	max-width:1000px;	background:#005020;	justify-content:space-between;	padding:10px;	margin:auto;	text-align:center;	}
 
 .main {	width:100%;	max-width:1000px;	margin:20px auto;}
 .slides {	width:100%;}
