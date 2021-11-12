@@ -22,6 +22,7 @@
 			</div>
 		</div>
 		<div class="intro">
+<<<<<<< HEAD
 			<h2> Quienes Somos </h2>
 			<p>Saludos, somos alumnos, alumnas y docentes de la especialidad de Programación del colegio Leonardo Da Vinci, ubicado en la ciudad de Arica. La especialidad Técnico profesional comprende dos niveles: Tercero y Cuarto medios.</p>
 		</div>
