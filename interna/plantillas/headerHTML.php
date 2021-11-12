@@ -30,9 +30,9 @@
     </div>
     <nav class="menu">
       <ul>
-        <li><a href="/PagServTecProfesor/">Inicio</a></li>
-        <li><a href="/PagServTecProfesor/interna/servicios.php">Servicios</a></li>
-        <li><a href="/PagServTecProfesor/interna/proyectos.php">Solicitud de servicios </a></li>
+        <li><a href="/ServTec/">Inicio</a></li>
+        <li><a href="/ServTec/interna/servicios.php">Servicios Prestados</a></li>
+        <li><a href="/ServTec/interna/proyectos.php">Solicitud de Servicios</a></li>
       </ul>
     </nav>
   </div>
